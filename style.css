@@ -1,0 +1,126 @@
+body {
+  color:#222;
+}
+.nav { 
+  padding-top:16px;
+  padding-right:20px;
+}
+.nav1 {
+  float:right;
+  margin: 0 9px;
+  font-family:arial;
+  color:#404040;
+  font-size:14px;
+  line-height: 24px;
+}
+
+.nav1 button {
+  color: white;
+  background: -moz-linear-gradient(center top , #4387FD, #4683EA) repeat scroll 0 0 rgba(0, 0, 0, 0);
+  border:none;
+  height:30px;
+  width:70px;
+  text-decoration:none;
+  cursor:default;
+  font-family:arial;
+  border-radius: 3px;
+  outline: medium none;
+  font-weight: bold;
+}
+.nav1 img {
+  padding-top:3px;
+}
+.main {
+  padding-top:176px;
+  text-align: center;
+}
+.main img {
+    height:220px;
+    width:565px;
+}
+.main form input {
+  width:569px;
+  height:26px;
+  margin-top:19px;
+  border:1px solid rgba(0, 0, 0, 0.2);
+}
+.main form button{
+  color: #404040;
+  font-family: Arial;
+  font-weight: bold;
+  font-size:12px;
+  background: #2E8AE6;
+  height:29px;
+  width:118px;
+  margin: 16px 4px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  background: rgb(245, 245, 245);
+  line-height:24px;
+  border-radius: 3px;
+
+}
+
+.main form button:hover {
+  box-shadow: 0.3px 0.5px 0.5px #888888;
+}
+footer {
+  background:rgb(242, 242, 242);
+  height:40px;
+  width:100%;
+  position:fixed;
+  bottom:0;
+  border-top: 0.5px solid #E4E4E4;
+}
+.links {
+  margin-left:15px;
+  margin-right:15px;
+  font-family:arial;
+  color:#666;
+  font-size:13px;
+  line-height: 24px;
+  
+}
+.links-left {
+  margin: 8px 15px;
+  float:left;
+  border: 0 none;
+  font-size: 100%;
+  outline: 0 none;
+  padding: 0;
+  vertical-align: baseline;
+}
+.links-right {
+  margin: 8px 15px;        
+  float:right;
+  border: 0 none;
+  font-size: 100%;
+  outline: 0 none;
+  padding: 0;
+  vertical-align: baseline;
+}
+
+body {
+  width:100%;
+  left:0;
+}
+
+.top {
+    color: #404040;
+    text-decoration: none;
+    
+}
+
+.top:hover {
+  text-decoration: underline;
+}
+
+.bottom {
+    
+    color: #666;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.bottom:hover {
+  text-decoration: underline;
+}
